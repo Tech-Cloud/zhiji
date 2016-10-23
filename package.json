@@ -14,5 +14,11 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "repository": {
+    "url": "git@github.com:Tech-Cloud/zhiji.git",
+    "type": "git"
+  },
+  "author": "lokyoung <lokyoung@outlook.com>",
+  "license": "MIT"
 }
